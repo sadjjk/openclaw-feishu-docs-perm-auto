@@ -105,8 +105,6 @@ Agent：
 | 文件夹 | `folder` | `/drive/folder/【token】` |
 | 云空间文件 | `file` | `/file/【token】` |
 | 知识库节点 | `wiki` | `/wiki/【token】` |
-| 思维笔记 | `mindnote` | - |
-| 幻灯片 | `slides` | - |
 
 ## 🔐 权限级别
 
