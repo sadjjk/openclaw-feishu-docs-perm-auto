@@ -289,8 +289,7 @@ curl -s -X POST "https://open.feishu.cn/open-apis/drive/v1/permissions/{FILE_TOK
 | `folder` | 文件夹 |
 | `file` | 云空间文件 |
 | `wiki` | 知识库节点 |
-| `mindnote` | 思维笔记 |
-| `slides` | 幻灯片 |
+
 
 **成功返回**：
 

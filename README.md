@@ -1,4 +1,4 @@
-# feishu-perm-auto 🔐
+# openclaw-feishu-docs-perm-auto 🔐
 
 > 自动为飞书文档添加用户权限
 
@@ -19,16 +19,16 @@
 
 ### 方式一：手动安装
 
-将 `feishu-perm-auto` 文件夹复制到 OpenClaw 的 skills 目录：
+将 `openclaw-feishu-docs-perm-auto` 文件夹复制到 OpenClaw 的 skills 目录：
 
 ```bash
-cp -r feishu-perm-auto ~/.openclaw/workspace/skills/
+cp -r openclaw-feishu-docs-perm-auto ~/.openclaw/workspace/skills/
 ```
 
 ### 方式二：ClawHub 安装（推荐）
 
 ```bash
-clawhub install feishu-perm-auto
+clawhub install openclaw-feishu-docs-perm-auto
 ```
 
 ## 🚀 使用方法
@@ -73,7 +73,7 @@ clawhub install feishu-perm-auto
 
 Agent：
 [1/3] 创建多维表格...
-[2/3] 添加用户权限...  ← 自动触发 feishu-perm-auto
+[2/3] 添加用户权限...  ← 自动触发此 skill
 [3/3] 完成！
 
 ✅ 多维表格「项目进度追踪」已创建！
