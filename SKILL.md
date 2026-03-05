@@ -1,15 +1,12 @@
 ---
-name: feishu-perm-auto
-description: |
-  自动为飞书文档添加用户权限。
-  每次创建飞书文档（多维表格/文档/电子表格/文件夹/云空间文件/知识库节点等）后必须调用此 skill
-  使用场景：
-  1. 创建飞书文档后 → 自动添加用户权限
-  2. 用户反馈文档无权限时（需提供文档链接）→ 补充添加权限
-
+name: openclaw-feishu-docs-perm-auto
+description: 自动为飞书文档添加用户权限。每次创建飞书文档（多维表格/文档/电子表格/文件夹/云空间文件/知识库节点等）后自动添加用户权限，或用户反馈文档无权限时补充添加权限。适用于 OpenClaw Agent。
+license: MIT
 metadata:
   openclaw:
     emoji: 🔐
+  author: sadjjk
+  version: "1.0.0"
 ---
 
 # 飞书文档权限自动添加
