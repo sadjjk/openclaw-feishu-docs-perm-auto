@@ -17,6 +17,12 @@
 
 ## 📦 安装
 
+### ClawHub 安装（推荐）
+
+```bash
+clawhub install openclaw-feishu-docs-perm-auto
+```
+
 ### 手动安装
 
 将 `openclaw-feishu-docs-perm-auto` 文件夹复制到 OpenClaw 的 skills 目录：
@@ -24,14 +30,6 @@
 ```bash
 cp -r openclaw-feishu-docs-perm-auto ~/.openclaw/workspace/skills/
 ```
-
-### ClawHub 安装（即将支持）
-
-```bash
-clawhub install openclaw-feishu-docs-perm-auto
-```
-
-> 🚧 待发布到 ClawHub 后即可使用此方式安装
 
 ## 🚀 使用方法
 
@@ -129,6 +127,8 @@ Agent：
 
 | 资源 | 链接 |
 |------|------|
+| ClawHub | https://clawhub.com/skills/openclaw-feishu-docs-perm-auto |
+| GitHub | https://github.com/sadjjk/openclaw-feishu-docs-perm-auto |
 | 飞书开放平台 | https://open.feishu.cn/app |
 | 权限配置指南 | https://open.feishu.cn/document/docs/permission/permission-member/batch_create |
 | 获取 Open ID | https://open.feishu.cn/document/faq/trouble-shooting/how-to-obtain-openid |
