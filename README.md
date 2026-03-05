@@ -156,3 +156,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=sadjjk/openclaw-feishu-docs-perm-auto&type=date&legend=top-left)](https://www.star-history.com/?repos=sadjjk%2Fopenclaw-feishu-docs-perm-auto&type=date&legend=top-left)
