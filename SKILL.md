@@ -659,8 +659,7 @@ def mask_secret(s, show=4):
 │     Body: {members: [{member_type, member_id, perm}]}   │
 ├─────────────────────────────────────────────────────────┤
 │  文档类型：                                             │
-│    bitable | docx | doc | sheet | folder | file        │
-│    wiki | mindnote | slides                             │
+│    bitable | docx | doc | sheet | folder | file | wiki │
 │  权限级别：view | edit | full_access                    │
 └─────────────────────────────────────────────────────────┘
 ```
